@@ -10,7 +10,23 @@
   background-image: url('https://webbtelescope.org/files/live/sites/webb/files/home/webb-science/galaxies-over-time/_images/Galaxy-Cluster-MACS-J0717.jpg');
 }
 
-
+.text-hover:hover{
+  color: red; 
+     transform: scale(1.1);
+     cursor: pointer;
+   }
+   
+   
+   @keyframes textAnimation {
+     0% {
+       transform: scale(1);
+       color: blue;
+     }
+     100% {
+       transform: scale(1.1);
+       color: red;
+     }
+   }
 
 .rick_morty-container {
   display: flex;
@@ -69,5 +85,7 @@
 
 p {
   margin: 5px 0;
-  color: #777;
+  color: white;
+  font-size: large;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }

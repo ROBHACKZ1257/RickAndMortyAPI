@@ -10,7 +10,7 @@ function Profile({currentCharacter}) {
   return (
     <div>
         <button className='button' onClick={() => navigate ('/') }>GO BACK!</button>
-        <h1>{currentCharacter.name}</h1>
+        <h1 className='profile-text'>{currentCharacter.name}</h1>
         <div className='rick_morty-profile'>
         <img src={currentCharacter.image} alt={currentCharacter.name} className='currentCharacter-image' />
         </div>

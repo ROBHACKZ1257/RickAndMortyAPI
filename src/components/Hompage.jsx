@@ -46,7 +46,7 @@ export default function Homepage({setcurrentCharacters}) {
   function Characters() {
     return characters.map((character) => (
       <div className='character-container' onClick={() =>{Infobutton(character)}} key={character.name}>
-        <h1>{character.name}</h1>
+        <h1 className='text-hover'>{character.name}</h1>
         {/* <p>Status: {character.status}</p>
         <p>Species: {character.species}</p>
         <p>Type: {character.type}</p>
