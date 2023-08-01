@@ -1,0 +1,73 @@
+.Homepage {
+  text-align: center;
+  display: flex;
+  flex-wrap: wrap;
+  width: 100%;
+  height: 100%; /* Set the height to fit the laptop screen */
+  margin: 0;
+  justify-content: center;
+  background-size: cover;
+  background-image: url('https://webbtelescope.org/files/live/sites/webb/files/home/webb-science/galaxies-over-time/_images/Galaxy-Cluster-MACS-J0717.jpg');
+}
+
+
+
+.rick_morty-container {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.character-container {
+  border: 1px solid black;
+  border-radius: 5px;
+  background-color: white;
+  padding: 10px;
+  margin: 10px;
+  max-width: 250px;
+  text-align: center;
+}
+
+.location-container {
+  border: 1px solid black;
+  border-radius: 5px;
+  background-color: white;
+  padding: 10px;
+  margin: 10px;
+  max-width: 250px;
+  text-align: center;
+}
+
+.episode-container {
+  border: 1px solid black;
+  border-radius: 5px;
+  background-color: white;
+  padding: 10px;
+  margin: 10px;
+  max-width: 250px;
+  text-align: center;
+}
+
+.character-image {
+  max-width: 100%;
+  height: auto;
+  margin-bottom: 10px;
+}
+
+.character {
+  background-color: #f5f5f5;
+  padding: 20px;
+  margin: 20px;
+  border-radius: 4px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.Rick_Morty {
+  color: red;
+  align-items: center;
+}
+
+p {
+  margin: 5px 0;
+  color: #777;
+}

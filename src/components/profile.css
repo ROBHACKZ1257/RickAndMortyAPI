@@ -1,0 +1,28 @@
+body{
+    background-color: white;
+}
+
+.button{
+ background-color: blue;
+ padding: 30px;
+ width: 100%;
+ font-size: large;
+}
+
+h1{
+    text-align: center;
+}
+
+p{
+    text-align: center;
+}
+
+.currentCharacter-image{
+    justify-content: center;
+}
+
+.rick_morty-profile {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+  }
