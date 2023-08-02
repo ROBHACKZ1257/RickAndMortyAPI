@@ -90,3 +90,4 @@ export default function Homepage({setcurrentCharacters}) {
     </div>
   );
 }
+
