@@ -12,5 +12,5 @@ This is a project that I choose to do I thought of something creative in the beg
 
 - If you want to look at the information that each character has on the page you drag the cursor onto to their name
 
-![](Rick-And-Morty-Logo.png)
+![](https://github.com/ROBHACKZ1257/RickAndMortyAPI/blob/master/RickandMortyAPIWebstie.png?raw=true)
 
