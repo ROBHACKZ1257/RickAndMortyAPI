@@ -14,3 +14,25 @@ This is a project that I choose to do I thought of something creative in the beg
 
 ![](https://github.com/ROBHACKZ1257/RickAndMortyAPI/blob/master/RickandMortyAPIWebstie.png?raw=true)
 
+- The name should give a red highlight and should expand a little bit and the cursor will change to a pointer finger, so click on it! 
+
+![](https://raw.githubusercontent.com/ROBHACKZ1257/RickAndMortyAPI/0d17e1efe733191638918f9f7d95fefe3ca44cb9/RickandMortyAPIWebsite_2.png)
+
+- Here the page shows their information on the character that is setup by the API.
+
+![](https://raw.githubusercontent.com/ROBHACKZ1257/RickAndMortyAPI/0d17e1efe733191638918f9f7d95fefe3ca44cb9/RickandMortyAPIWebsite_3.png)
+
+- If you want to go back to the main page to look at other characters in Rick and Morty you would have to hover over the go back button and it will give the same hover animation as you have hover and clicked on the name before.
+
+![](https://github.com/ROBHACKZ1257/RickAndMortyAPI/blob/master/RickandMortyAPIWebsite_4.png?raw=true)
+
+- Now you are back on the main page if you want to look at other characters that are listed and shown by the API.
+
+![](https://github.com/ROBHACKZ1257/RickAndMortyAPI/blob/master/RickandMortyAPIWebstie.png?raw=true)
+
+# Author: 
+
+Robert Lopez
+
+GitHub Username: @ROBHACKZ1257
+ 
